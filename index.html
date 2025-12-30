@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mayank Patil | Portfolio</title>
+
+    <style>
+        :root {
+            --primary: #4f46e5;
+            --dark: #0f172a;
+            --light: #f8fafc;
+            --gray: #64748b;
+            --card: #ffffff;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        body {
+            background: var(--light);
+            color: var(--dark);
+            line-height: 1.6;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary), #6366f1);
+            color: white;
+            padding: 80px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 3rem;
+        }
+
+        header p {
+            margin-top: 10px;
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        header a {
+            display: inline-block;
+            margin: 20px 10px 0;
+            padding: 10px 20px;
+            background: white;
+            color: var(--primary);
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        section {
+            max-width: 1100px;
+            margin: auto;
+            padding: 60px 20px;
+        }
+
+        section h2 {
+            font-size: 2rem;
+            margin-bottom: 30px;
+            text-align: center;
+            color: var(--primary);
+        }
+
+        .about {
+            text-align: center;
+            max-width: 800px;
+            margin: auto;
+            color: var(--gray);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: var(--card);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+        }
+
+        .card h3 {
+            margin-bottom: 10px;
+            color: var(--dark);
+        }
+
+        .skills span {
+            display: inline-block;
+            background: #eef2ff;
+            color: var(--primary);
+            padding: 8px 14px;
+            border-radius: 20px;
+            margin: 6px;
+            font-size: 0.9rem;
+        }
+
+        .project h3 {
+            margin-bottom: 5px;
+        }
+
+        .project p {
+            font-size: 0.95rem;
+            color: var(--gray);
+        }
+
+        .contact {
+            text-align: center;
+        }
+
+        .contact p {
+            margin: 8px 0;
+            color: var(--gray);
+        }
+
+        footer {
+            background: var(--dark);
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 2.2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Mayank Patil</h1>
+    <p>Computer Engineering Student | Web Developer | Cloud & DevOps Enthusiast</p>
+    <a href="mailto:patilmayank2003@gmail.com">Email Me</a>
+    <a href="#">GitHub</a>
+    <a href="#">LinkedIn</a>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p class="about">
+        I am a Computer Engineering undergraduate from RMD Sinhgad School of Engineering, Pune.
+        Passionate about full-stack web development, cloud computing, and building scalable software
+        solutions using modern technologies.
+    </p>
+</section>
+
+<section>
+    <h2>Technical Skills</h2>
+    <div class="card skills">
+        <span>Java</span>
+        <span>JavaScript</span>
+        <span>Data Structures</span>
+        <span>OOP</span>
+        <span>HTML</span>
+        <span>CSS</span>
+        <span>React.js</span>
+        <span>Node.js</span>
+        <span>Express.js</span>
+        <span>MySQL</span>
+        <span>MongoDB</span>
+        <span>Git</span>
+        <span>Docker</span>
+        <span>AWS</span>
+        <span>Postman</span>
+    </div>
+</section>
+
+<section>
+    <h2>Experience</h2>
+    <div class="card">
+        <h3>Web Developer Intern – Coding Savvy</h3>
+        <p><strong>Dec 2024 – Jan 2025 | ISKCON IT Cell</strong></p>
+        <p>
+            Developed responsive UI components using React, HTML, CSS, and JavaScript.
+            Worked in an Agile environment, participated in Scrum meetings, and collaborated
+            using GitHub for version control.
+        </p>
+    </div>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <div class="grid">
+        <div class="card project">
+            <h3>Smart Task Manager</h3>
+            <p><strong>Tech:</strong> React, Node.js, MongoDB, Express, TypeScript</p>
+            <p>
+                Full-stack task management system with authentication, CRUD operations,
+                REST APIs, and secure login.
+            </p>
+        </div>
+
+        <div class="card project">
+            <h3>ISKCON Task Allocation System</h3>
+            <p><strong>Tech:</strong> React, HTML, CSS, JavaScript, Bootstrap</p>
+            <p>
+                Volunteer coordination platform with role-based dashboards and task allocation
+                based on skills and availability.
+            </p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Certifications</h2>
+    <div class="card">
+        <p>✔ Full-Stack Web Development – Udemy</p>
+        <p>✔ Linux Fundamentals – Linux Foundation</p>
+        <p>✔ Enterprise Grade AI – IBM</p>
+        <p>✔ Oracle Certified Developer Professional – Oracle</p>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact</h2>
+    <p>Pune, Maharashtra</p>
+    <p>📞 +91 9146662508</p>
+    <p>📧 patilmayank2003@gmail.com</p>
+</section>
+
+<footer>
+    © 2026 Mayank Patil | Portfolio Website
+</footer>
+
+</body>
+</html>
