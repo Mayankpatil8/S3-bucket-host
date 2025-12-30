@@ -13,6 +13,7 @@ It showcases my skills, experience, projects, and certifications in a clean and 
 
 ## 📁 Project Structure
 
+```bash
 portfolio-s3-static-website/
 ├── index.html
 ├── error.html
@@ -20,11 +21,11 @@ portfolio-s3-static-website/
 │   ├── images/
 │   └── icons/
 └── README.md
-
-----
+'''
 
 <img width="1919" height="894" alt="Screenshot 2025-12-30 105722" src="https://github.com/user-attachments/assets/a221fe9a-a5f2-4cd7-a0e1-210fc1590a0e" />
-<img width="1919" height="840" alt="Screenshot 2025-12-30 105738" src="https://github.com/user-attachments/assets/c98ab508-05c0-4ee4-9d13-7f158c96b1b1" />
+<img width="1888" height="1032" alt="Screenshot 2025-12-30 110559" src="https://github.com/user-attachments/assets/2bb99958-8472-4254-b5d1-876193a1e0a6" />
+
 <img width="1918" height="907" alt="Screenshot 2025-12-30 105807" src="https://github.com/user-attachments/assets/c0cb4886-c8f3-4849-9e1e-96425249356f" />
 <img width="1919" height="931" alt="Screenshot 2025-12-30 105928" src="https://github.com/user-attachments/assets/c527f68c-8685-4cc0-98f1-b7f01b739bde" />
 <img width="1447" height="964" alt="Screenshot 2025-12-30 105944" src="https://github.com/user-attachments/assets/933d67c0-1162-4926-88a7-830af55d5abe" />
