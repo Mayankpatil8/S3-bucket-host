@@ -10,6 +10,7 @@ It showcases my skills, experience, projects, and certifications in a clean and 
 - AWS S3 (Static Website Hosting)
 - Git & GitHub
 
+
 ## 📁 Project Structure
 
 portfolio-s3-static-website/
@@ -20,12 +21,13 @@ portfolio-s3-static-website/
 │   └── icons/
 └── README.md
 
-<img width="1917" height="977" alt="Screenshot 2025-12-30 110038" src="https://github.com/user-attachments/assets/9bf917ef-ccf4-42a0-9114-acabf47d3ed8" />
-<img width="1890" height="978" alt="Screenshot 2025-12-30 110023" src="https://github.com/user-attachments/assets/f2a2cd8e-541c-46c3-97b8-c745e3ceda61" />
-<img width="1447" height="964" alt="Screenshot 2025-12-30 105944" src="https://github.com/user-attachments/assets/933d67c0-1162-4926-88a7-830af55d5abe" />
-<img width="1919" height="931" alt="Screenshot 2025-12-30 105928" src="https://github.com/user-attachments/assets/c527f68c-8685-4cc0-98f1-b7f01b739bde" />
-<img width="1918" height="907" alt="Screenshot 2025-12-30 105807" src="https://github.com/user-attachments/assets/c0cb4886-c8f3-4849-9e1e-96425249356f" />
+----
 
-Finally Host a WebPage...
-<img width="1919" height="840" alt="Screenshot 2025-12-30 105738" src="https://github.com/user-attachments/assets/c98ab508-05c0-4ee4-9d13-7f158c96b1b1" />
 <img width="1919" height="894" alt="Screenshot 2025-12-30 105722" src="https://github.com/user-attachments/assets/a221fe9a-a5f2-4cd7-a0e1-210fc1590a0e" />
+<img width="1919" height="840" alt="Screenshot 2025-12-30 105738" src="https://github.com/user-attachments/assets/c98ab508-05c0-4ee4-9d13-7f158c96b1b1" />
+<img width="1918" height="907" alt="Screenshot 2025-12-30 105807" src="https://github.com/user-attachments/assets/c0cb4886-c8f3-4849-9e1e-96425249356f" />
+<img width="1919" height="931" alt="Screenshot 2025-12-30 105928" src="https://github.com/user-attachments/assets/c527f68c-8685-4cc0-98f1-b7f01b739bde" />
+<img width="1447" height="964" alt="Screenshot 2025-12-30 105944" src="https://github.com/user-attachments/assets/933d67c0-1162-4926-88a7-830af55d5abe" />
+<img width="1890" height="978" alt="Screenshot 2025-12-30 110023" src="https://github.com/user-attachments/assets/f2a2cd8e-541c-46c3-97b8-c745e3ceda61" />
+<img width="1917" height="977" alt="Screenshot 2025-12-30 110038" src="https://github.com/user-attachments/assets/9bf917ef-ccf4-42a0-9114-acabf47d3ed8" />
+
